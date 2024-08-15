@@ -1,7 +1,8 @@
 # Sink a Dot Com Game
 
-Welcome to Sink a Dot Com, a game inspired by the classic Battleship, as featured in the HeadFirstJava book.
-Objective
+Welcome to Sink a Dot Com, a game inspired by the classic Battleship.
+
+## Objective
 
 Your goal is to sink all of the computer's Dot Coms using the fewest number of guesses. Your performance will be rated based on how effectively you play the game.
 
